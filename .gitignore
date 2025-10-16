@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+
+# Archivos compilados
+*.class
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code (por si abres el proyecto ahí)
+.vscode/
+
+# Logs y backups
+*.log
+*.bak
